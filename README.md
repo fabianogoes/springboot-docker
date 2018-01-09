@@ -1,4 +1,4 @@
-# Application Sample with Build generate Docker Image
+# Sample Application with Build generate Docker Image
 
 **/src/main/dockerDockerfile**
 
@@ -103,6 +103,19 @@ docker stop eed110c0a999
 ```
 docker rm -f eed110c0a999
 ```
+
+
+### References
+
+* [Spring Boot with Docker](https://spring.io/guides/gs/spring-boot-docker/)
+* [RUNNING SPRING BOOT IN A DOCKER CONTAINER](https://springframework.guru/running-spring-boot-in-a-docker-container/#comment-2306)
+* [Using Docker containers for your Spring boot applications](https://g00glen00b.be/docker-spring-boot/)
+* [Dockerize Spring Boot Application](https://medium.com/sudharao/dockerize-spring-boot-application-deploy-spring-boot-application-to-docker-containerize-spring-e039a1aa743a)
+* [Dockerize a Spring Boot application](https://thepracticaldeveloper.com/2017/12/11/dockerize-spring-boot/)
+* [Dockerizing a Spring Boot Application by baeldung](http://www.baeldung.com/dockerizing-spring-boot-application)
+* [fabric8io/docker-maven-plugin](https://dmp.fabric8.io/#example)
+* [Docker Documentation](https://docs.docker.com/)
+
 
 
 
